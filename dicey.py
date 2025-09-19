@@ -1,3 +1,11 @@
+#I/We _____Rand Ashour__________ declare that I/We have completed 
+# this computer code in accordance with the UAB Academic Integrity Code and the UAB CS Honor Code.  
+# I/We have read the UAB Academic Integrity Code and understand that any breach of the Code may result in severe 
+#penalties.	
+#Student signature(s)/initials: _____R.A_______	
+#Date: ______9/19/2025______*/
+
+
 import numpy as np
 
 N = 100000
